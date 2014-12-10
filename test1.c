@@ -83,16 +83,6 @@ void forwardRev (int rev,int percentPower) {
 	motor[motorB] = 0;
 }
 
-/*
-By Julia: 
-motor[motorB] = 50;
-wait1Msec(900);
-motor[motorA] = -90;
-wait1Msec(400);
-motor[motorA] = 2000;
-wait1Msec(450);
-motor[motorC] = 700;
-*/
 
 
 	
